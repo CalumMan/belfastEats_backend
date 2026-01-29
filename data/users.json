@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "d20839c8-a0f8-4266-937e-0e7111f79ed9",
+    "username": "admin",
+    "email": "admin@belfasteats.com",
+    "password_hash": "scrypt:32768:8:1$LHp3L1z7fYyRVwg1$ef43e61634a754fec85271d8a2589e1e9795e0bb31124f3d5f9cbaa0d29b33dbb7900ab5b7038758426c153f83ea877ae5decde3f46b0f03f7a2a39b8c417270",
+    "role": "admin",
+    "created_at": "2025-11-06T04:02:00.275245"
+  },
+  {
+    "_id": "4066839b-78e3-4f74-96a6-4ecd68b86ca8",
+    "username": "user",
+    "email": "user@belfasteats.com",
+    "password_hash": "scrypt:32768:8:1$fGHD48NaDEG4Ib8m$e5c5b8440b15c18275269c798cc8da0e1b7f14ed507ea424da2d16d608bab7128a88e384864d749509f438d48c78d9a76184c49ba236fe0cd121af8bb8f1d0f8",
+    "role": "user",
+    "created_at": "2025-11-06T04:02:00.466762"
+  }
+]
